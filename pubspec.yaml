@@ -1,7 +1,7 @@
 name: rio_app_driver
 description: Rio Club Driver App
 publish_to: 'none'
-version: 2.1.6+19
+version: 2.1.7+20
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
